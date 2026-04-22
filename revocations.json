@@ -1,0 +1,14 @@
+{
+  "0123456789ABCDEF": {
+    "data": "2024-03-25 14:30:00",
+    "motivo": "Chave Privada Comprometida"
+  },
+  "5F1A2B3C4D5E6F70": {
+    "data": "2024-04-02 09:15:00",
+    "motivo": "Certificado Substituído"
+  },
+  "AABBCCDDEEFF": {
+    "data": "2024-04-05 16:45:00",
+    "motivo": "Cessação de Operação"
+  }
+}
